@@ -26,7 +26,7 @@ I'm a passionate developer who loves building projects, solving challenges, and 
 
 ## 📫 Let's Connect
 
-- GitHub: [DarShOp21](https://github.com/DarShOp21))
+- GitHub: [DarShOp21](https://github.com/DarShOp21)
 - LinkedIn: [Darshan Ayare](https://www.linkedin.com/in/darshan-ayare-815925283/)
 - Email: darshanayare43@gmail.com
 
